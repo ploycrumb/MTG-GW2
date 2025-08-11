@@ -1,0 +1,4079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>GW2</name>
+      <longname>Guild Wars 2</longname>
+      <settype>Custom</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Caromi Scout</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird Scout  </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Alliance — Whenever another creature enters under your control, Caromi Scout gains double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Lionguard Sentry</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Charr Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionguard Sentry has first strike as long as a creature entered under your control this turn.</text>
+    </card>
+    <card>
+      <name>Whispers Illusionist</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Asura Mesmer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Whispers Illusionist enters, you may pay {2}. If you do, exile another target creature you control then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Kodan Shopkeeper</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Kodan Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Kodan Shopkeeper enters, Scry 2.</text>
+    </card>
+    <card>
+      <name>Hawkeye Griffon</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Hawkeye Griffon enters, put a flying counter on up to one target creature you control with mana value 3 or less.</text>
+    </card>
+    <card>
+      <name>Vigil Quartermaster</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Charr Guardian </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vigil Quartermaster enters, you may return another nonland permanent to your hand. If you do, draw a card. </text>
+    </card>
+    <card>
+      <name>Veteran Protector</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Guardian </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Veteran Protector enters, prevent all damage that would be dealt to another target creature you control.</text>
+    </card>
+    <card>
+      <name>Terebinth Gardener</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Sylvari Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Terebinth Gardener enters, create a 2/2 green white Fern Hound creature token.</text>
+    </card>
+    <card>
+      <name>Frostgorge Forager</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Norn Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Landfall — Whenever a land enters under your control, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Foefire Captain</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Foefire Captain enters, you gain 1 life for each creature you control.</text>
+    </card>
+    <card>
+      <name>Pact Airship</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Arifact - Vehicle</type>
+        <maintype>Arifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying, vigilance
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Ride the Lightning</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Ride the Lightning deals damage equal to the number of creatures you control to target creature.
+• Exile a creature you control then return it to the battlefield.</text>
+    </card>
+    <card>
+      <name>Ring of Warding</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this permanent enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Receive the Light</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker WW (You may pay an additional WW as you cast this spell.)
+Target creature you control gains +2/+2 and lifelink until end of turn. If this spell was kicked, each other creature you control gains +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Backbreaker</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact, enchantment, or nonbattle creature with power 4 or greater.</text>
+    </card>
+    <card>
+      <name>Dynamics Prodigy</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Asura Scholar </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Whenever you cast an instant or sorcery spell, Dynamics Prodigy gains +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Golem Research Assistant</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Golem Research Assistant leaves the battlefield, draw a card.</text>
+    </card>
+    <card>
+      <name>Shiverpeak Owl</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Shiverpeak Owl enters, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Moogooloo Sentinel</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Quaggan </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+{T}: Untap target creature you control.
+2U, {T}: Tap target creature.</text>
+    </card>
+    <card>
+      <name>Frostgorge Ice Imp</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Imp </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Frostgorge Ice Imp enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+    </card>
+    <card>
+      <name>Rooba&apos;s Cleanup Krewe</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Asura Engineer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rooba’s Cleanup Krewe enters, choose one — 
+• Return target creature an opponent controls to its owner’s hand 
+• Create a 1/1 colorless Golem creature token.</text>
+    </card>
+    <card>
+      <name>Whispers Lightbringer</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Thief </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw your second card each turn, Whispers Lightbringer gains +2/+0 and can’t be blocked this turn. </text>
+    </card>
+    <card>
+      <name>Icebrood Colossus</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental Minion </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+2U: Draw a card, then discard a card.
+Cycling {2}</text>
+    </card>
+    <card>
+      <name>The Prestige</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Tap target creature and put two stun counters on it.
+• Exile a creature you control then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Council Scrutiny</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {2}. If they do, Investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Arcane Breakthrough</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Scry 2.
+• Draw a card.
+• Create a 1/1 colorless Golem artifact creature token.
+Flashback 4U</text>
+    </card>
+    <card>
+      <name>Signet of Humility</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature loses all abilities and is a green creature with base power and toughness 1/1 named Prized Moa. (It loses all other colors, card types, creature types, and names.)</text>
+    </card>
+    <card>
+      <name>Ice Spike</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>The owner of target creature puts it on top or bottom of their library. If you control an artifact, scry 1.</text>
+    </card>
+    <card>
+      <name>Inquest Experiment</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Create three colorless 1/1 Golem artifact creature tokens.
+• Tap up to three creatures your opponent controls. Put a stun counter on one of them.</text>
+    </card>
+    <card>
+      <name>Golemancy Field Research</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards.
+Raid — Create a colorless 1/1 Golem artifact creature token if you attacked this turn.</text>
+    </card>
+    <card>
+      <name>Maguuma Mosquito</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Lifelink
+When Maguuma Mosquito dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Skrittsburgh Scavenger</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Skritt </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Skrittsburgh Scavenger dies, make a Treasure token and surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Steam Mechataur</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Arifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Steam Mechataur enters, you draw a card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Ash Legion Infiltrator</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Charr Thief </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Lifelink
+When Ash Legion Infiltrator enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Harpy Hunter</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{1}, Sacrifice a creature: Put a +1/+1 counter on Harpy Hunter.</text>
+    </card>
+    <card>
+      <name>Risen Preserver</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Minion </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Risen Preserver enters with three +1/+1 counters on it.
+When Risen Preserver dies, return target creature with mana value less than or equal to its power from your graveyard to the battlefield with a finality counter on it.</text>
+    </card>
+    <card>
+      <name>Zhaitan&apos;s Reclaimer</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Zombie Minion  </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B, Sacrifice another creature or artifact: Draw a card.</text>
+    </card>
+    <card>
+      <name>Risen Gorilla</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Zombie Minion </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Risen Gorilla enters, target creature an opponent controls gets -4/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Bloodbane Path</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell pay {4} or sacrifice an artifact or creature. 
+Destroy target nonbattle creature.</text>
+    </card>
+    <card>
+      <name>Risen Corruption</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player sacrifices a creature or battle. Create a tapped 2/2 Zombie creature token.</text>
+    </card>
+    <card>
+      <name>Dredge Surveillance</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player discards two cards. Create a 1/1 colorless Golem creature token.</text>
+    </card>
+    <card>
+      <name>Life Siphon</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature.
+Draw two cards and create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)</text>
+    </card>
+    <card>
+      <name>Zhaitan&apos;s Breath</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. Create a 2/2 black Zombie creature token.</text>
+    </card>
+    <card>
+      <name>Save Yourselves</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker BB
+Until end of turn, target nonbattle creature gets +2/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner’s control.” 
+If this spell was kicked, creatures you control gain “When this dies, create a tapped 2/2 black Zombie creature token.” until end of turn.</text>
+    </card>
+    <card>
+      <name>Lesser Air Elemental</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Lesser Air Elemental can’t block.
+When Lesser Air Elemental dies, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Destroyer Troll</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Minion </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Landfall — Whenever a land enters the battlefield under your control, Destroyer Troll gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Smokestead Lookout</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Charr Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+{R}, {T}, Discard a card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Charr Legionnaire</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Charr Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you’ve drawn two or more cards this turn, Charr Legionnaire has double strike.</text>
+    </card>
+    <card>
+      <name>Iron Legion Marksman</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Charr Engineer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Raid — When Iron Legion Marksman enters, if you attacked this turn, choose one — 
+• Destroy target artifact.
+• Deal 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Glyph of Elementals</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Glyph of Elementals enters, create three 1/1 red Elemental creature tokens with haste.
+Raid — {R}, Sacrifice Glyph of Elementals: Glyph of Elementals deals 3 damage divided as you choose among any number of targets. Activate only as a sorcery and only if you attacked this turn.</text>
+    </card>
+    <card>
+      <name>Charr Battle Tank</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Raid — Charr Battle Tank enters with a +1/+1 counter on it if you attacked this turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Flame Legion Effigy</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Flame Legion Effigy.</text>
+    </card>
+    <card>
+      <name>Branded Minotaur</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Beast Minion </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Cycling 1R (1R, Discard this card: Draw a card.)
+When you cycle Branded Minotaur, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Lightning Flash</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Lightning Flash deals 2 damage to any target.
+Raid — If you attacked this turn,  scry 1.</text>
+    </card>
+    <card>
+      <name>For Great Justice</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker RR (You may pay an additional RR as you cast this spell.)
+Target creature gains +2/+0 and first strike until end of turn.
+If this spell was kicked, another target creature gains +2/+0 and first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Open Black Lion Chest</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card.
+Draw two cards and make a tapped Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Rocket Shoes</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+0 and has haste.
+Whenever equipped creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Lava Font</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Lava Font deals 3 damage to target creature. If you control a Boss, instead Lava Font deals 5 damage to that creature.</text>
+    </card>
+    <card>
+      <name>Pact Cannonade</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Pact Cannonade deals 6 damage to target creature.
+• Destroy target artifact. Create a Treasure token.
+• Destroy target nonbasic land.
+</text>
+    </card>
+    <card>
+      <name>Toxic Ooze</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Ooze </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+2G: Toxic Ooze gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Astorea Bloom Tender</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Sylvari </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color.
+1G, Sacrifice Astorea Bloom Tender: Draw a card.</text>
+    </card>
+    <card>
+      <name>Undergrowth Recluse</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Undergrowth Recluse dies, search your library for a basic land and put it onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Nightmare Knight</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Sylvari Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+1G: Creatures with power 2 or less can’t block Nightmare Knight this turn.</text>
+    </card>
+    <card>
+      <name>Wyld Hunt Ranger</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Sylvari Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Wyld Hunt Ranger enters, you may put a land card from your hand onto the battlefield tapped. If you don’t, create a 2/2 white green Fern Hound creature token.</text>
+    </card>
+    <card>
+      <name>Taimini Rock Dog</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Landfall — Whenever a land enters under your control, Taimini Rock Dog gets +2/+2 until end of turn.
+1G: Taimini Rock Dog gains vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Great Lodge Skald</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Norn Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Great Lodge Skald enters, return target permanent from your graveyard to your hand and make a Food token.
+When Great Lodge Skald dies,     exile it.</text>
+    </card>
+    <card>
+      <name>Lapatl Chieftain</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Frog Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Alliance — Whenever another creature enters, Lapatl Chieftain gets +2/+0 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Wychmire Wurm</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Wychmire Wurm can’t be blocked by creatures with power 2 or less.</text>
+    </card>
+    <card>
+      <name>Caeledon Mossheart</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Treant </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Caeledon Mossheart enters, you gain 3 life.
+Forestcycling 1G (1G, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Rowdy Alemoot</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a Food token. Then choose one —
+• Target creature you control fights target creature you don’t control.
+• Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Point-Blank Shot</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to target creature or battle you don’t control.</text>
+    </card>
+    <card>
+      <name>Stand Your Ground</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker GG (You may pay an additional GG as you cast this spell.)
+Target creature you control gets +3/+3. If this spell was kicked, instead that creature gets +5/+5 and gains reach until end of turn</text>
+    </card>
+    <card>
+      <name>Guild Banquet</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alliance — Whenever a creature enters the battlefield under your control, you gain 1 life.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Take in the Vista</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+    </card>
+    <card>
+      <name>Mark I Golem</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mark I Golem enters, scry 1.</text>
+    </card>
+    <card>
+      <name>Dredge Mining Suit</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Dredge Mining Suit enters, attach it to target creature you control.
+Equipped creature gets +2/+1.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Asura Gate Golem</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{3}, {T}: Untap target permanent you control.</text>
+    </card>
+    <card>
+      <name>Charr Mortar Shell</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{3}, {T}, Sacrifice Charr Mortar Shell: It deals 3 damage to target creature</text>
+    </card>
+    <card>
+      <name>Waypoint</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Waypoint enters, you may search your library for a basic land, reveal it, put it into your hand, then shuffle.
+{2}, Sacrifice Waypoint: Draw a card.</text>
+    </card>
+    <card>
+      <name>Guild Banner</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{4}, {T}: Scry 2</text>
+    </card>
+    <card>
+      <name>Thaumanova Fire Elemental</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+When Thaumanova Fire Elemental enters, it deals 4 damage to each creature, opponent, and battle. (Including itself.)</text>
+    </card>
+    <card>
+      <name>The Iron Forgeman</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+At the beginning of combat on your turn, create a 1/1 red Elemental creature token with haste. That creature attacks this turn if able.</text>
+    </card>
+    <card>
+      <name>Admiral Taidha Covington</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+When Admiral Taidha Covington enters, create two 0/4 colorless Wall creature tokens.</text>
+    </card>
+    <card>
+      <name>The Nightmare Tree</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+When this enters, search your library for a basic land, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Great Jungle Wurm</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+When Great Jungle Wurm enters, it fights target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>The Howling King</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+When The Howling King enters, target creature an opponent controls gets -3/-3 until end of turn.</text>
+    </card>
+    <card>
+      <name>Shadow Beheamoth</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+At the beginning of each player’s upkeep, that player sacrifices a creature or battle. If they can’t, they discard a card.</text>
+    </card>
+    <card>
+      <name>Svanir Shaman</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+When Svanir Shaman enters, tap target creature an opponent controls and put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Frost, Bandit Looter</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+When Frost, Bandit Looter enters or attacks, draw a card then discard a card.</text>
+    </card>
+    <card>
+      <name>Ghost King Adelburn</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+Alliance — Whenever another creature you control enters, creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Kudu&apos;s Monster</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+Whenever you cast a noncreature spell, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>King Toad</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+Other creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Separatist Captain DeLana</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+When this enters, exile target nonland permanent an opponent controls until this leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Mouth of Zhaitan</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+Whenever another nontoken creature you control dies, create a Food or a Treasure token.</text>
+    </card>
+    <card>
+      <name>Freezie, Greatest Snowman</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+When Freezie, Greatest Snowman enters, create two 1/1 colorless Golem creature tokens and draw a card.</text>
+    </card>
+    <card>
+      <name>Grand High Viscount of Candy Corn</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+When Grand High Viscount of Candy Corn enters, it deals 2 damage to any target and you gain 2 life. </text>
+    </card>
+    <card>
+      <name>Storm Wizard</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+During your turn, creatures you control have flying.</text>
+    </card>
+    <card>
+      <name>Giganticus Lupicus</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+Whenever a player sacrifices a permanent, Giganticus Lupicus deals 1 damage to target player or battle.</text>
+    </card>
+    <card>
+      <name>Kodan&apos;s Bane, Huntsman of Jormag</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+When Kodan’s Bane attacks, other creatures you control get +1/+1 and gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Subject Alpha</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Opponents may attack this battle. During your turn it is a creature in addition to its other types with the printed power and toughness. It enters with defense counters equal to its toughness.)
+At the beginning of your end step, put a +1/+1 counter on each of up to two other target creatures.</text>
+    </card>
+    <card>
+      <name>Flame Legion Igniter</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Charr Elementalist </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an instant or sorcery spell, Flame Legion Igniter deals 1 damage to target opponent or battle.</text>
+    </card>
+    <card>
+      <name>Hero of Shaemoor</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 and has vigilance.
+Whenever enchanted creature attacks, up to one other target creature gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Snaff Savant</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 and has ward {1}.
+Whenever enchanted creature attacks, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Warband Legionnaire</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 and has menace.
+Whenever enchanted creature attacks, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Valiant of the Wyld Hunt</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 and has haste.
+Whenever enchanted creature attacks, target creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Slayer of Issormir</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 and has trample.
+When Slayer of Issormir enters, enchanted creature fights up to one target creature.</text>
+    </card>
+    <card>
+      <name>Lightbringer Tybalt Leftpaw</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Charr Engineer </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lightbringer Tybalt Leftpaw enters or dies, make a Food and Investigate.</text>
+    </card>
+    <card>
+      <name>Magister Sieran</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Sylvari Scholar </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Magister Sieran enters or dies, draw a card, then you may put a land from your hand onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Warmaster Forgal Kernsson</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Norn Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Warmaster Forgal Kernsson enters or dies, exile the top two cards of your library. Until the beginning of your next turn’s end step, you may play one of those cards.</text>
+    </card>
+    <card>
+      <name>Bone Minion</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Minion </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bone Minion dies, it deals 2 damage to target opponent or battle.</text>
+    </card>
+    <card>
+      <name>Garm, Wolf Companion</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Landfall — Whenever a land enters under your control, put a +1/+1 counter on Garm, Wolf Companion.</text>
+    </card>
+    <card>
+      <name>Phlunt&apos;s Fillibuster</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if you have cast another spell this turn.
+Draw three cards, then discard a card.</text>
+    </card>
+    <card>
+      <name>Lord Faren</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+When Lord Faren enters, destroy target artifact or enchantment.
+Sacrifice Lord Faren: Another target creature you control gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Dragon Hologram</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Dragon Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Dragon Hologram is the target of a spell or ability, sacrifice it.</text>
+    </card>
+    <card>
+      <name>Whispers Spy Kit</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Whispers Spy Kit enters, attach it to target creature. That creature gains hexproof until end of turn.
+Equipped creature gets +0/+1 and has ward {2}.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Mr Sparkles</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever one or more artifact creatures you control deals combat damage to a player, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Mirror Images</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Mirror Images enter as a copy of a nonbattle creature you control.</text>
+    </card>
+    <card>
+      <name>Defiance Break</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This costs {1} less to cast if you control a battle.
+Counter target spell. </text>
+    </card>
+    <card>
+      <name>Risen Thrall</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Zombie Minion </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Risen Thrall enters tapped.
+{B}, Exile Risen Thrall from your graveyard: Create a tapped 2/2 black Zombie creature token.</text>
+    </card>
+    <card>
+      <name>Steamrider</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Whenever you draw a card, put a +1/+1 counter on Steamrider.</text>
+    </card>
+    <card>
+      <name>Synergetics Showcase</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you draw your second card each turn, choose one — 
+• Make a 1/1 colorless Golem creature token.
+• Exile target creature you control then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Priory Archivist</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Charr Scholar </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Priory Archivist enters, you may return up to one target instant or sorcery card from your graveyard to your hand. If you don’t, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Vanish into the Mists</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker UU (You may pay an additional UU as you cast this spell.)
+Return target nonland permanent to its owner’s hand.
+If this spell was kicked, scry 2 then draw a card.</text>
+    </card>
+    <card>
+      <name>Shadow Refuge</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t block and can’t be blocked.
+{U}, Sacrifice Shadow Refuge: Draw a card. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Nightmare Courtier</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Sylvari Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Nightmare Courtier enters, you may sacrifice another creature. If you do, choose one —
+• Destroy target nonbattle creature.
+• Draw a card</text>
+    </card>
+    <card>
+      <name>Inquest Test Chamber</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Inquest Test Chamber enters, each opponent discards a card.
+{T}, Sacrifice a creature: Draw a card. Each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Fleshreaver</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B: Fleshreaver gains flying until end of turn.
+{B}: Fleshreaver gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Death Shroud</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant nonbattle creature you control
+When enchanted permanent dies, return that creature to the battlefield at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>InGenium Golemancer</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Asura Engineer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tap two artifacts you control: Target opponent loses 1 life. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Inquest Overseer Kolt</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Asura Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a nontoken creature dies, create a 1/1 colorless Golem creature token. This ability triggers once per turn.</text>
+    </card>
+    <card>
+      <name>Corrosive Poison Cloud</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures get -2/-2 until end of turn. Remove two defense counters from each battle.</text>
+    </card>
+    <card>
+      <name>Spiritcrush</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Destroy target nonbattle creature.
+• Remove up to five counters from target permanent.</text>
+    </card>
+    <card>
+      <name>March of Undeath</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped with a +1/+1 counter on it.
+Cycling {B} ({B}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Faolain, Grand Duchess</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Sylvari Mesmer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Sacrifice a creature
+Menace
+1B, Sacrifice another creature: Each opponent sacrifices a creature. Put two +1/+1 counters on Faolain. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Mesmer Profession</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+When Mesmer Profession enters, draw two cards, then discard a card.
+2UU: Level 2
+At the beginning of combat on your turn, tap up to one target creature and put a stun counter on it.
+6U: Level 3
+At the beginning of your end step, create a token copy of target nonbattle nontoken creature you control.</text>
+    </card>
+    <card>
+      <name>Signet of Domination</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. When that creature dies this turn, its owner creates a Treasure token.</text>
+    </card>
+    <card>
+      <name>Maelstrom&apos;s Bile</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you draw your second card each turn, Maelstrom’s Bile deals 2 damage to any target.
+{2}, Discard a land card: Draw a card.</text>
+    </card>
+    <card>
+      <name>Uptown Johnny</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human  Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+{T}, Discard a card: Add RR.</text>
+    </card>
+    <card>
+      <name>Shiny Madness</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has haste and gets +X/+0, where X is the number of artifacts you control.
+Whenever enchanted creature attacks, create a tapped Treasure token.</text>
+    </card>
+    <card>
+      <name>Modniir Berserker</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Centaur Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Alliance — Whenever a creature you control enters, Modniir Berserker deals 1 damage to target opponent.</text>
+    </card>
+    <card>
+      <name>Lava Elemental</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Landfall — Whenever a land enters under your control, creatures you control get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Flame Legion Prophet</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Charr Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Landfall — Whenever a land enters under your control, exile the top card of your library. You may play that card. If you don’t, Flame Legion Prophet deals 2 damage to each opponent. This ability triggers once each turn.</text>
+    </card>
+    <card>
+      <name>Dragon&apos;s Tooth</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Dragon’s Tooth deals 3 damage to target creature.
+• Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>Charrzooka</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+1 and has menace and first strike.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Zealot&apos;s Flame</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Zealot’s Flame deals X damage to any target. If X is five or more, draw a card.</text>
+    </card>
+    <card>
+      <name>Hunter&apos;s Call</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Exile the top two cards of your library. You may play those cards until the end of your next turn.
+• Creatures you control get +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Guardian Profession</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+When Guardian Profession enters, distribute two +1/+1 counters among one or two target creatures.
+1WW: Level 2
+At the beginning of combat on your turn, up to one target creature gains first strike and vigilance.
+2WW: Level 3
+Whenever you attack with three or more creatures, attacking creatures gain double strike.</text>
+    </card>
+    <card>
+      <name>Foefire Regeneration</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both — 
+• Exile target artifact or nonbattle creature you control, then return it to the battlefield under its owner’s control.
+• Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Eagle Griffon</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying, vigilance</text>
+    </card>
+    <card>
+      <name>Stubborn Dolyak</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+As long as you control three or more other creatures, Stubborn Dolyak gets +3/+0 and can attack as though it doesn’t have defender.</text>
+    </card>
+    <card>
+      <name>Vigil Captain</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Asura Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3W: Creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Mists War Recruiter</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Norn Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mists War Recruiter enters, look at the top six cards of your library. You may reveal a creature card with power 2 or less and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Warden Trainee</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Sylvari Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tap another creature with power 2 or less: Put a +1/+1 counter on Warden Trainee. Activate only as a sorcery</text>
+    </card>
+    <card>
+      <name>This is My Story</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a legendary creature card and put it into your hand. Then shuffle.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Chains of Light</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature or battle.
+Enchanted creature can’t attack or block.</text>
+    </card>
+    <card>
+      <name>Mistlock Instability</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target nonland permanent. Its controller creates a 3/3 green Beast creature token.</text>
+    </card>
+    <card>
+      <name>Ghost of Duke Barradin</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Spirit Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+1WW, {T}: Exile another target nonbattle creature you control then return it to the battlefield.</text>
+    </card>
+    <card>
+      <name>Sic &apos;Em</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to target creature. If excess damage was dealt this way, destroy up to one target artifact or enchantment with mana value less than or equal to that amount of excess damage.</text>
+    </card>
+    <card>
+      <name>Wake from the Dream</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for up to two basic lands and put them onto the battlefield tapped. Then put a +1/+1 counter on up to one target creature you control.</text>
+    </card>
+    <card>
+      <name>Packmaster Danador</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Sylvari Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Packmaster Danador enters, you may pay 1G any number of times. When you pay this cost one or more times, create that many 2/2 green white Fern Hound creature tokens.</text>
+    </card>
+    <card>
+      <name>White Stag</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{T}: Add GG.</text>
+    </card>
+    <card>
+      <name>Ironshell Karka</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Karka </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+2GG: Put a shield counter on Ironshell Karka. Activate only as a sorcery. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+    </card>
+    <card>
+      <name>Ritual Husk</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Minion </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Morbid — This creature enters with three +1/+1 counters on it if a creature died this turn.</text>
+    </card>
+    <card>
+      <name>Dragon Bash Reveler</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Norn Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, Sacrifice Dragon Bash Reveler: Choose one — 
+• Destroy target artifact.
+• Destroy target enchantment.
+• Remove 3 defense counters from target battle.</text>
+    </card>
+    <card>
+      <name>Queensdale Guide</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Queensdale Guide enters, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield tapped and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Verdant Kennel Grounds</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Landfall — Whenever a land enters under your control, create a 2/2 white green Fern Hound creature token.</text>
+    </card>
+    <card>
+      <name>Illusionary Decoy</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+All creatures able to block enchanted creature do so.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Racing Moa</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Whenever Racing Moa deals combat damage to a player, reveal the top card of your library. If its a land, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Ranger Profession</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+When Ranger Profession enters, create a 3/3 green Beast token.
+1G: Level 2
+Whenever a land enters under your control, put a +1/+1 counter on up to one target creature.
+3G: Level 3
+Return all lands from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>World Boss Portal Device</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, look at the top six cards of your library. You may reveal a Boss card from among them and put it into your hand. Put the rest of those cards on the bottom of your library in a random order. If you didn’t put a card into your hand this way, scry 2.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Ley-Line Coalescence</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ley-Line Coalescence enters with X +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Lion&apos;s Arch</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped. When it enters, sacrifice it unless you pay {1} or tap a creature you control.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Unidentified Gear</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice Unidentified Gear: Add one mana of any color.
+{2}, Sacrifice Unidentified Gear: Draw a card.
+{4}, Sacrifice Unidentified Gear: Scry 1, then draw two cards.</text>
+    </card>
+    <card>
+      <name>Elemental Attunement</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two — 
+• Counter target noncreature spell.
+• Elemental Attunement deals 2 damage to any target.
+• Target creature gains flying and haste until end of turn.
+• Draw a card.</text>
+    </card>
+    <card>
+      <name>Risen Despoiler</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Minion </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice another creature: Surveil 1 and you gain 1 life. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+When Risen Despoiler dies, each opponent loses life equal to its toughness.</text>
+    </card>
+    <card>
+      <name>Branded Griffon</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird Minion </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Whenever Branded Griffon attacks, you may sacrifice another creature or artifact. If you do, put a +1/+1 counter on Branded Griffon.</text>
+    </card>
+    <card>
+      <name>VAL-A Golem</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>*/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+VAL-A Golem’s power is equal to the number of artifacts you control.</text>
+    </card>
+    <card>
+      <name>Mass Invisibility</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile any number of target nonbattle creatures you control. Return those cards to the battlefield under their owner’s control at the beginning of the next end step with an additional shield counter on each of them. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+    </card>
+    <card>
+      <name>Renown Heart</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a nontoken creature enters under your control, put a quest counter on Renown Heart.
+Remove seven quest counters from Renown Heart and sacrifice it: Search your library for a creature card and put it onto the battlefield. Then shuffle. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Flamethrower Kit</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Flamethrower Kit enters, attach it to target creature you control.
+Equipped creature gets +1/+1.
+During your turn, equipped creature gets +1/+0 and has first strike.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Risen Dragon Lieutenant</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Zombie Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever a creature dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+2BB, Pay 1 life: Target creature gets -3/-3 until end of turn.</text>
+    </card>
+    <card>
+      <name>The Shatterer</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>4BR</manacost>
+        <cmc>6</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever The Shatterer enters or attacks, it deals 2 damage to any target. If a player was dealt damage this way, they discard a card.</text>
+    </card>
+    <card>
+      <name>Claw of Jormag</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+When Claw of Jormag enters, tap each creature your opponents control. At the beginning of each end step, put a stun counter on target creature.</text>
+    </card>
+    <card>
+      <name>Karka Queen</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>5RG</manacost>
+        <cmc>7</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Trample
+When Karka Queen enters put a a shield counter on up to three other target creatures you control. They gain trample until end of turn. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+    </card>
+    <card>
+      <name>Inquest Golem Mark II</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Inquest Golem Mark II enters, each opponent mills 2 cards. Then you may exile a card from a graveyard. Other creatures get -X/-X until end of turn, where X is the mana value of the exiled card.</text>
+    </card>
+    <card>
+      <name>Toxx, Haywire Golem</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Toxx, Haywire Golem enters, destroy all artifacts and enchantments. Put X +1/+1 counters on another target creature you control, where X is the number of permanents destroyed this way.</text>
+    </card>
+    <card>
+      <name>Ley-Line Anomaly</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ley-Line Anomaly attacks each turn if able.
+When Ley-Line Anomaly dies, target opponent sacrifices a noncreature, nonland permanent.</text>
+    </card>
+    <card>
+      <name>Labyrinthine Horror</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures your opponents control attack Labyrinthine Horror each turn if able.
+When Labyrinthine Horror dies, you gain life equal to the number of tapped creatures your opponents control. </text>
+    </card>
+    <card>
+      <name>Eye of Zhaitan</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Eye of Zhaitan enters, exile target instant or sorcery card from a graveyard. You may cast it without paying its mana cost this turn. If that spell would be put into a graveyard, exile it instead.</text>
+    </card>
+    <card>
+      <name>Tequatl the Sunless</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Tequatl the Sunless enters, return target creature from a graveyard to the battlefield under your control. It’s a zombie in addition to its other types. You lose life equal to its mana value.
+Zombies you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Modniir Ulgoth</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control have haste.
+Whenever a creature you control attacks, it deals 1 damage to defending player.</text>
+    </card>
+    <card>
+      <name>Megadestroyer</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Megadestroyer attacks each turn if able.
+Landfall — Whenever a land enters under your control, double Megadestroyer’s power until end of turn.</text>
+    </card>
+    <card>
+      <name>Jade Winds</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player who owns a battle draws a card. Then destroy all creatures and battles.</text>
+    </card>
+    <card>
+      <name>Signet of Courage</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you gain life, put a +1/+1 counter on target creature you control.
+Sacrifice Signet of Courage: Target creature you control gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Forming the Pact</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alliance — Whenever a creature you control enters, make a Treasure token. This ability triggers once per turn.
+Whenever you attack with three or more creatures, draw a card.</text>
+    </card>
+    <card>
+      <name>Queen Jennah</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+Creatures can’t attack you or a permanent you control unless their controller pays {2} for each of those creatures.
+Attacking creatures you control get +0/+2.</text>
+    </card>
+    <card>
+      <name>Sylvari Pacifist</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Sylvari Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+If combat damage would be dealt to Sylvari Pacifist, prevent that damage and create a 0/2 green Plant    creature token.</text>
+    </card>
+    <card>
+      <name>General Almorra Soulkeeper</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Charr  Guardian </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Priestess of Dwayna</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human  Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control enters, you gain 1 life and scry 1.</text>
+    </card>
+    <card>
+      <name>Jumping Puzzle</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tap a creature you control: Put a leap counter on Jumping Puzzle.
+Remove three leap counters from Jumping Puzzle: Target creature gains flying until end of turn.
+Remove five leap counters from Jumping Puzzle: Create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Steward Gixx</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Asura Scholar </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Steward Gixx enters, counter target noncreature spell. If a spell was countered this way, create an X/X colorless Golem creature token, where X is the countered spell’s mana value.</text>
+    </card>
+    <card>
+      <name>Elixer X</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures your opponents control lose all abilities and become green Moa creatures with base power and toughness 1/1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Priestess of Lyssa</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Mesmer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Priestess of Lyssa enters, you may create a token copy of target creature you control, except it isn’t legendary.</text>
+    </card>
+    <card>
+      <name>Countess Anise</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Legenary Creature - Human Mesmer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+You may cast noncreature spells as if they had flash.
+Whenever you cast a spell on an opponent’s turn, put a +1/+1 counter on Countess Anise.</text>
+    </card>
+    <card>
+      <name>Siege Golem</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {4}
+Siege Golem enters tapped with six stun counters on it.
+Whenever you cast a noncreature spell, if Siege Golem has a stun counter on it, remove a stun counter from Siege Golem and draw a card.</text>
+    </card>
+    <card>
+      <name>Priest of Grenth</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Sylvari Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature dies, target opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Lich Form</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Lich Form enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Morbid — At the beginning of each upkeep, if a creature died this turn, create a 2/2 black Zombie creature token.</text>
+    </card>
+    <card>
+      <name>Inquest Golemaestro</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Inquest Engineer </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The first time an artifact enters under your control each turn, each opponent loses 2 life and you gain 2 life.
+When Inquest Golemaestro dies, return target artifact with mana value 3 or less to the battlefield.</text>
+    </card>
+    <card>
+      <name>Dagger Storm</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XBB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Phase out up to one target creature you control. All creatures get -X/-X until end of turn. (While it’s phased out, it’s treated as though it doesn’t exist. It phases in before its controller untaps during their next untap step.)</text>
+    </card>
+    <card>
+      <name>Spectral Skirmisher</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Spectral Skirmisher enters, each opponent loses 1 life and you gain 1 life.
+When Spectral Skirmisher dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.         </text>
+    </card>
+    <card>
+      <name>Minister Caudecus</name>
+      <set rarity="uncommon">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Discard a card.
+Whenever a creature dies, you may pay {1} and exile a card from your graveyard. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Zhaitan&apos;s Awakening</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create three 2/2 black Zombie creature tokens. If Zhaitan’s Awakening was cast from a graveyard, create nine of those tokens instead.
+Flashback 7B (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Necromancer Profession</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+When Necromancer Profession enters, target creature gets -3/-3 until end of turn and you gain 2 life.
+{B}: Level 2
+Whenever you gain life, each opponent loses 1 life.
+3B: Level 3
+Once per turn you may cast a creature spell from your graveyard by sacrificing a creature in addition to paying its other costs. </text>
+    </card>
+    <card>
+      <name>Destroyer Crab</name>
+      <set rarity="common">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Minion </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Landfall — Whenever a land enters under your control, Destroyer Crab deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Engineer Profession</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+Artifact spells you cast cost {1} less to cast.
+1R: Level 2
+At the beginning of combat on your turn, target creature you control gets +X/+0 where X is the number of artifacts you control.
+2R: Level 3
+At the beginning of each upkeep, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Fiery Greatsword</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Fiery Greatsword enters, attach it to target creature you control.
+Equipped creature gets +2/+0 and has double strike as long as it’s attacking.
+RR, Unattach Fiery Greatsword: This deals 3 damage to target creature. Activate only as a sorcery.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Champion Destroyer Harpy</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Harpy </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Whenever Champion Destroyer Harpy attacks, you may discard a card. If you do, draw a card.
+1R:Champion Destroyer Harpy gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Transmutation Charges</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{R}, {T}, Sacrifice an artifact: Search your library for an artifact card with mana value X or less, where X is 2 plus the sacrificed artifact’s mana value. Put that card onto the battlefield. If the card is an equipment, you may attach it to target creature you control. Then shuffle.</text>
+    </card>
+    <card>
+      <name>Schotakk the Shiny King</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Skritt Noble </type>
+        <maintype>Creature</maintype>
+        <pt>*/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Schotakk the Shiny King’s power is equal to the number of artifacts you control.
+Whenever an opponent casts a spell, they may have Schotakk the Shiny King deal 1 damage to them. If they do not, you create a Treasure token.            </text>
+    </card>
+    <card>
+      <name>Gaheron Baelfire</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Charr Elementalist </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals double that much damage instead.</text>
+    </card>
+    <card>
+      <name>Aatxe</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Aatxe attacks, exile the top card of your library. If it’s a land card, create a Treasure token. Otherwise, Aatxe gets +1/+1 until end of turn.
+When Aatxe dies, choose a card exiled with it. You may play that card until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Thaumanova Eruption</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top four cards of your library. You may choose any number of the exiled cards and put them into your graveyard. Thaumanova Eruption deals damage to each creature and battle equal to the total mana value of the chosen cards. Until the end of your next turn, you may play the exiled cards.</text>
+    </card>
+    <card>
+      <name>Strength of the Pack</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both — 
+• Target creature you control deals damage equal to its power to target creature you don’t control.
+• Tap target nonbattle creature you control. Put defense counters equal to its toughness on target battle you protect.</text>
+    </card>
+    <card>
+      <name>Priest of Melandru</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color.
+Priest of Melandru gets +3/+1 as long as you control seven or more lands.</text>
+    </card>
+    <card>
+      <name>Ventari&apos;s Teachings</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control have “{T}: Add one mana of any color”.
+Whenever a creature with power 2 or less enters, you gain 2 life.
+Whenever a creature with power 3 or greater enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Ancient Oakheart</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GGG</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Treefolk </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, reach, trample
+When Ancient Oakheart enters, gain 8 life. 
+When Ancient Oakheart dies, draw a card.</text>
+    </card>
+    <card>
+      <name>Malyck the Dreamless</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Sylvari </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a creature spell, put a +1/+1 counter on Malyck the Dreamless and draw a card.</text>
+    </card>
+    <card>
+      <name>Ogden Stonehealer</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Dwarf Scholar </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may play an additional land on each of your turns. 
+Landfall — Whenever a land enters under your control, put a +1/+1 counter on each of up to two target creatures.</text>
+    </card>
+    <card>
+      <name>Knut Whitebear</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Norn Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Knut Whitebear attacks, put X +1/+1 counters on another target attacking creature, where X is this creature’s power.</text>
+    </card>
+    <card>
+      <name>Blessings of the Wild</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +X/+X and gain trample until end of turn, where X is the number of untapped lands you control.</text>
+    </card>
+    <card>
+      <name>Thief Profession</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+When Thief Profession enters, each opponent discards a card and you draw a card.
+UB: Level 2
+Whenever a creature you control deals combat damage to an opponent, that player mills 3 cards.
+3UB: Level 3
+At the beginning of combat on your turn, choose a creature you control. That creature can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Revenant Profession</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+When Revenant Profession enters, return target creature from your graveyard to the battlefield.
+1W: Level 2
+Creatures you control with power 2 or less have lifelink.
+2BB: Level 3
+Whenever you cast a spell, you lose 3 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Elementalist Profession</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+Instant and sorcery spells you cast cost {1} less to cast.
+UR: Level 2
+Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 and gain haste until end of turn.
+1UR: Level 3
+Whenever you draw a card, Elementalist Profession deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>Firstborn Caithe</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Sylvari Thief </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, deathtouch
+Whenever Firstborn Caithe deals combat damage to a player or battle, look at the top two cards of your library. Put one into your hand and the other into your graveyard.</text>
+    </card>
+    <card>
+      <name>Tome of Knowledge</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tome of Knowledge enters with four page counters on it.
+{T}: Add {C}.
+{2}, {T}, Remove a page counter from Tome of Knowledge: Draw a card.</text>
+    </card>
+    <card>
+      <name>Asura Gate Portal</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your precombat main phase, you may pay {3}. If you do, put an artifact, creature, or battle card from your hand onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Warrior Profession</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+Whenever you attack, exile the top card of your library. You may play that card this turn. 
+RW: Level 2
+Whenever you attack, put a +1/+1 counter on up to one target attacking creature.
+RW: Level 3
+At the beginning of your end step this deals 1 damage to each opponent and you gain 1 life for each tapped creature you control.</text>
+    </card>
+    <card>
+      <name>Crafting Contact</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Crafting Contact enters, create a Food token, a Treasure token, or a Clue token.
+{T}, Sacrifice a token: Draw a card.</text>
+    </card>
+    <card>
+      <name>Rare Counterspell</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Counter target creature spell.
+• Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Laranthir of the Wild</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Sylvari Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Raid — At the end of combat on your turn, if you attacked this turn, exile the top card of your library and create a Treasure token for each opponent you attacked. You may play those cards this turn.</text>
+    </card>
+    <card>
+      <name>GM03</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XXG</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put X +1/+1 counters on each of up to X target creatures you control. Each of those creatures may fight up to one target creature you don’t control. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>Eir Stegalkin</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Norn Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+1G: Choose one — 
+• Target creature you control gets +2/+0 until end of turn.
+• Eir Stegalkin deals 2 damage to target creature with flying.</text>
+    </card>
+    <card>
+      <name>The Flameseeker Prophecies</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>4RR, {T}: Create a token that’s a copy of target creature you control, except it has haste and “At the beginning of the end step, sacrifice this token.” 
+At the end of each of your combat phases, you may sacrifice a creature. When you do, untap all creatures you control and after this phase, there is an additional combat phase.</text>
+    </card>
+    <card>
+      <name>Caladbolg</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2.
+Whenever equipped creature attacks, exile up to one other target creature until this artifact leaves the battlefield. If a creature is put into exile this way, return each other card exiled with this artifact to the battlefield under its owner’s control.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Cleansing of Orr</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile all nonland permanents. Return a creature you control with power 2 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Logan Thackary</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WWW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human  Guardian </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other creatures you control get +1/+1.
+At the beginning of each combat, choose first strike, vigilance, or lifelink. Creatures you control gain that ability until end of turn.</text>
+    </card>
+    <card>
+      <name>The Glory of Tyria</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WWW</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Arifact - Vehicle</type>
+        <maintype>Arifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying, vigilance
+During your turn, your opponents can’t cast spells or activate abilities.
+If a creature you control would die, exile it until The Glory of Tyria leaves the battlefield instead.
+Crew 2</text>
+    </card>
+    <card>
+      <name>Zojja, Genius Golemancer</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Asura Elementalist </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Zojja, Genius Golemancer enters, search your library for an artifact creature card, reveal it, put it into your hand, then shuffle.
+If a creature or artifact entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+    </card>
+    <card>
+      <name>Fractal Reset</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, return a creature you control to its owner’s hand.
+Take an extra turn after this one. Exile Fractal Reset.</text>
+    </card>
+    <card>
+      <name>The Dreamer</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each end step, if you cast an instant, sorcery, or artifact spell this turn, you gain an experience counter. 
+At the beginning of your upkeep, draw a card. Then each opponent mills three cards for each experience counter you have.</text>
+    </card>
+    <card>
+      <name>Zhaitan, Shadow and Death</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>6BB</manacost>
+        <cmc>8</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enters, creatures your opponents control get -2/-2 until end of turn. 
+Whenever a non-token creature dies, put a defense counter on this and make a 2/2 black Zombie creature token.</text>
+    </card>
+    <card>
+      <name>Master of Whispers</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Spy </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Discard two cards.
+{T}: Target creature you control gains menace and “Whenever this creature deals combat damage to a player, Investigate that many times” until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Thief&apos;s Shadow Arts</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose up to five ◆ worth of modes. You may choose the same mode more than once.
+◆ — Up to one target creature gets -1/-1 until end of turn.
+◆◆ — Each opponent discards a card. If they can’t, you draw a card.
+◆◆◆ —  Creatures you control get +1/+0 and gain deathtouch and lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Sayeh al&apos; Rajihd</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Largos </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sayeh al’ Rajihd has indestructible as long as she has attacked this turn.
+UU: Sayeh al’ Rajihd gains hexproof until end of turn.
+BB: Sayeh al’ Rajihd gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Avatar of the Tree</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>3GW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Sylvari  </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+{T}: Add GW.
+Whenever a white creature enters under your control, put a +1/+1 counter on each other creature you control.
+Whenever a green creature enters under your control, untap Avatar of the Tree.           </text>
+    </card>
+    <card>
+      <name>GM02</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you tap a land for mana, add one mana of any type that land produced. 
+Landfall — Whenever a land enters under your control, you may pay {X}. If you do, put X +1/+1 counters on target land you control. It becomes a 0/0 green Elemental. It’s still a land.</text>
+    </card>
+    <card>
+      <name>Trahearne, Pact Marshal</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>2WBG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Sylvari Necromancer </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Nontoken creatures you control enter with an additional +1/+1 counter on them.
+Whenever a creature you control with a counter on it dies, draw a card if its power was 4 or greater. Otherwise, target opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>The Pact Commander</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>WURG</colors>
+        <manacost>2/W2/U2/R2/G</manacost>
+        <cmc>8</cmc>
+        <type>Battle - Boss </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever this or another legendary creature you control enters, discover X. Where X is the number of legendary creatures you control plus 1.
+Alliance — Whenever another creature you control enters, put a defense counter on The Pact Commander.</text>
+    </card>
+    <card>
+      <name>Rytlock Brimstone</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>1RWB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Charr Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike, vigilance
+Whenever one or more creatures you control deal combat damage to an opponent, create a Treasure token. 
+{2}: Attach target legendary equipment you control to Rytlock. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Zommoros&apos; Mystic Forge</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>XX, {T}, Sacrifice four nonland permanents: Discover X four times. (To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>Eternity</name>
+      <set rarity="mythic">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks or deals combat damage, put two charge counters on Eternity.
+Remove a charge counter from Eternity: Choose one — 
+• Equipped creature gets +1/+1 until end of turn. 
+• Equipped creature gains your choice of vigilance, first strike, or  
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Dreamer&apos;s Terrace</name>
+      <set rarity="">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped. 
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>Applied Development Lab</name>
+      <set rarity="">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped. 
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Smokestead Village</name>
+      <set rarity="">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped. 
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>Chantry of Secrets</name>
+      <set rarity="">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped. 
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Salma District</name>
+      <set rarity="">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped. 
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>Vigil Keep</name>
+      <set rarity="">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped. 
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Ebonhawke Stronghold</name>
+      <set rarity="">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped. 
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Durmand Priory</name>
+      <set rarity="">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped. 
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Hunter&apos;s Hearth</name>
+      <set rarity="">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped. 
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Ruined City of Arah</name>
+      <set rarity="">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped. 
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Hoelbrak</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Hoelbrak enters tapped unless you control a Mountain.
+{T}: Add {R}.
+{R}, {T}: Target creature gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Black Citadel</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Black Citadel enters tapped unless you control a Swamp.
+{T}: Add {B}.
+1B, {T}: Surveil 2. Activate only if an opponent lost life this turn.</text>
+    </card>
+    <card>
+      <name>Divinity&apos;s Reach</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Divinity’s Reach enters tapped unless you control a Plains.
+{T}: Add {W}.
+2W, {T}: Draw a card. Activate only if a creature entered under your control this turn.</text>
+    </card>
+    <card>
+      <name>Rata Sum</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Rata Sum enters tapped unless you control an Island.
+{T}: Add {U}.
+1U, {T}: Scry 2. Activate only if you control three or more artifacts.</text>
+    </card>
+    <card>
+      <name>The Grove</name>
+      <set rarity="rare">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>The Grove enters tapped unless you control a Forest.
+{T}: Add {G}.
+{G}, {T}: Put a +1/+1 counter on target creature. Activate only if a land entered under your control this turn.</text>
+    </card>
+    <card>
+      <name>Boss Battle Rules Reminder</name>
+      <set rarity="">GW2</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Token</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>1. Boss is a subtype of battle 
+2. A Boss is a creature on your turn. This means it can attack, tap, be sacrificed, sing, dance, etc. 
+3. Bosses enter with defense counters equal to their printed toughness. 
+4. Bosses die when they take damage equal to or greater than their toughness (when a creature) or when they do not have any defense counters on them. (If it is not a creature, it will not trigger effects that care about creatures dying.)
+5. When a battle takes damage, remove that many defense counters from it. 
+6. On their turns, your opponents can declare attackers at the battles you defend, including bosses.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
