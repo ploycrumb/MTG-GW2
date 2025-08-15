@@ -2,9 +2,11 @@ This is an unofficial Magic: the Gathering set based on the game Guild Wars 2.
 
 Introducing a new mechanic: Boss Battles!
 
-![alt text](https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Shadow%20Beheamoth.png)
+![alt text]()
 ![alt text](https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Claw%20of%20Jormag.png)
 ![alt text](https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/The%20Shatterer.png)
+<img src="[https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Shadow%20Beheamoth.png]" width="48">
+
 
 Bosses are Battles that are also creatures (sometimes). They can be whittled down with combat damage and directly attacked in combat.
 
