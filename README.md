@@ -1,17 +1,14 @@
 This is an unofficial Magic: the Gathering set based on the game Guild Wars 2.
 
 Introducing a new mechanic: Boss Battles!
-<img src="https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Shadow%20Beheamoth.png" width=50% height=50%>
-<img src="https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Claw%20of%20Jormag.png" width=50% height=50%>
-<img src="https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/The%20Shatterer.png" width=50% height=50%>
 
-Bosses are Battles that are also creatures (sometimes). They can be whittled down with combat damage and directly attacked in combat.
+<img src="https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Shadow%20Beheamoth.png" width=50% height=50%> <img src="https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Claw%20of%20Jormag.png" width=50% height=50%> <img src="https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/The%20Shatterer.png" width=50% height=50%>
+
+Bosses are Battles that are also creatures (sometimes). They are powerful, but can be whittled down with damage and directly attacked in combat.
 
 
 This set also features the Professions of Guild Wars 2 as classes:
-![alt text](https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Mesmer%20Profession.png) 
-![alt text](https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Guardian%20Profession.png)
-![alt text](https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Ranger%20Profession.png)
+<img src="https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Mesmer%20Profession.png" width=50% height=50%><img src="https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Guardian%20Profession.png" width=50% height=50%><img src="https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Ranger%20Profession.png" width=50% height=50%>
 
 
 
