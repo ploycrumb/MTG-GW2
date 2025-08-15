@@ -1,5 +1,20 @@
 This is an unofficial Magic: the Gathering set based on the game Guild Wars 2.
 
+Introducing a new mechanic: Boss Battles!
+
+![alt text](https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Shadow%20Beheamoth.png)
+![alt text](https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Claw%20of%20Jormag.png)
+![alt text](https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/The%20Shatterer.png)
+
+Bosses are Battles that are also creatures (sometimes). They can be whittled down with combat damage and directly attacked in combat.
+
+This set also features the Professions of Guild Wars 2 as classes:
+![alt text](https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Mesmer%20Profession.png) 
+![alt text](https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Guardian%20Profession.png)
+![alt text](https://raw.githubusercontent.com/ploycrumb/MTG-GW2/refs/heads/main/Card_Images/Ranger%20Profession.png)
+
+
+
 To play, download and install Cockatrice: https://cockatrice.github.io/
 Then download the zip file above and extract the files.
 In Cockatrice, from the Card Database menu select "Open Custom Sets Folder" and put the GW2.xml in there.
