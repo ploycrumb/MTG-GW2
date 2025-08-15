@@ -3136,239 +3136,239 @@
 	9 Boss Battle Rules Reminder
 
 [Wildcard]
-		 1 1 Gaheron Baelfire
-		 1 1 Thaumanova Eruption
-		 1 1 GM03
-		 1 1 Eir Stegalkin
-		 1 1 The Flameseeker Prophecies
-		 1 1 Cleansing of Orr
-		 1 1 Logan Thackary
-		 1 1 The Glory of Tyria
-		 1 1 Zojja, Genius Golemancer
-		 1 1 Fractal Reset
-		 1 1 The Dreamer
-		 1 1 Master of Whispers
-		 1 1 Thief's Shadow Arts
-		 1 1 GM02
-		 1 1 Trahearne, Pact Marshal
-		 1 1 Rytlock Brimstone
-		 1 1 Zommoros' Mystic Forge
-		 1 1 Eternity
-		 1 2 Glyph of Elementals
-		 1 2 Faolain, Grand Duchess
-		 1 2 Risen Dragon Lieutenant
-		 1 2 Jade Winds
-		 1 2 Signet of Courage
-		 1 2 Forming the Pact
-		 1 2 Queen Jennah
-		 1 2 Sylvari Pacifist
-		 1 2 General Almorra Soulkeeper
-		 1 2 Priestess of Dwayna
-		 1 2 Jumping Puzzle
-		 1 2 Steward Gixx
-		 1 2 Elixer X
-		 1 2 Priestess of Lyssa
-		 1 2 Countess Anise
-		 1 2 Siege Golem
-		 1 2 Lich Form
-		 1 2 Inquest Golemaestro
-		 1 2 Dagger Storm
-		 1 2 Spectral Skirmisher
-		 1 2 Zhaitan's Awakening
-		 1 2 Necromancer Profession
-		 1 2 Engineer Profession
-		 1 2 Fiery Greatsword
-		 1 2 Champion Destroyer Harpy
-		 1 2 Transmutation Charges
-		 1 2 Schotakk the Shiny King
-		 1 2 Aatxe
-		 1 2 Strength of the Pack
-		 1 2 Priest of Melandru
-		 1 2 Ventari's Teachings
-		 1 2 Ancient Oakheart
-		 1 2 Malyck the Dreamless
-		 1 2 Ogden Stonehealer
-		 1 2 Knut Whitebear
-		 1 2 Blessings of the Wild
-		 1 2 Thief Profession
-		 1 2 Revenant Profession
-		 1 2 Elementalist Profession
-		 1 2 Firstborn Caithe
-		 1 2 Tome of Knowledge
-		 1 2 Asura Gate Portal
-		 1 2 Warrior Profession
-		 1 2 Crafting Contact
-		 1 2 Rare Counterspell
-		 1 2 Laranthir of the Wild
-		 1 2 Caladbolg
-		 1 2 Sayeh al' Rajihd
-		 1 2 Avatar of the Tree
-		 1 2 Hoelbrak
-		 1 2 Black Citadel
-		 1 2 Divinity's Reach
-		 1 2 Rata Sum
-		 1 2 The Grove
-		 1 4 Lesser Air Elemental
-		 1 4 Hero of Shaemoor
-		 1 4 Snaff Savant
-		 1 4 Warband Legionnaire
-		 1 4 Valiant of the Wyld Hunt
-		 1 4 Slayer of Issormir
-		 1 4 Lightbringer Tybalt Leftpaw
-		 1 4 Magister Sieran
-		 1 4 Warmaster Forgal Kernsson
-		 1 4 Bone Minion
-		 1 4 Garm, Wolf Companion
-		 1 4 Phlunt's Fillibuster
-		 1 4 Lord Faren
-		 1 4 Dragon Hologram
-		 1 4 Whispers Spy Kit
-		 1 4 Mr. Sparkles
-		 1 4 Mirror Images
-		 1 4 Defiance Break
-		 1 4 Steamrider
-		 1 4 Synergetics Showcase
-		 1 4 Priory Archivist
-		 1 4 Vanish into the Mists
-		 1 4 Shadow Refuge
-		 1 4 Nightmare Courtier
-		 1 4 Inquest Test Chamber
-		 1 4 Fleshreaver
-		 1 4 Death Shroud
-		 1 4 InGenium Golemancer
-		 1 4 Inquest Overseer Kolt
-		 1 4 Corrosive Poison Cloud
-		 1 4 Spiritcrush
-		 1 4 March of Undeath
-		 1 4 Mesmer Profession
-		 1 4 Signet of Domination
-		 1 4 Maelstrom's Bile
-		 1 4 Uptown Johnny
-		 1 4 Shiny Madness
-		 1 4 Modniir Berserker
-		 1 4 Lava Elemental
-		 1 4 Flame Legion Prophet
-		 1 4 Dragon's Tooth
-		 1 4 Charrzooka
-		 1 4 Zealot's Flame
-		 1 4 Hunter's Call
-		 1 4 Guardian Profession
-		 1 4 Foefire Regeneration
-		 1 4 Eagle Griffon
-		 1 4 Stubborn Dolyak
-		 1 4 Vigil Captain
-		 1 4 Mists War Recruiter
-		 1 4 Warden Trainee
-		 1 4 This is My Story
-		 1 4 Chains of Light
-		 1 4 Mistlock Instability
-		 1 4 Ghost of Duke Barradin
-		 1 4 Sic 'Em
-		 1 4 Wake from the Dream
-		 1 4 Packmaster Danador
-		 1 4 White Stag
-		 1 4 Ironshell Karka
-		 1 4 Ritual Husk
-		 1 4 Dragon Bash Reveler
-		 1 4 Queensdale Guide
-		 1 4 Verdant Kennel Grounds
-		 1 4 Illusionary Decoy
-		 1 4 Racing Moa
-		 1 4 Ranger Profession
-		 1 4 World Boss Portal Device
-		 1 4 Ley-Line Coalescence
-		 1 4 Lion's Arch
-		 1 4 Unidentified Gear
-		 1 4 Elemental Attunement
-		 1 4 Risen Despoiler
-		 1 4 Branded Griffon
-		 1 4 VAL-A Golem
-		 1 4 Mass Invisibility
-		 1 4 Renown Heart
-		 1 4 Flamethrower Kit
-		 1 4 Priest of Grenth
-		 1 4 Minister Caudecus
-		 1 8 Caromi Scout
-		 1 8 Lionguard Sentry
-		 1 8 Whispers Illusionist
-		 1 8 Kodan Shopkeeper
-		 1 8 Hawkeye Griffon
-		 1 8 Vigil Quartermaster
-		 1 8 Veteran Protector
-		 1 8 Terebinth Gardener
-		 1 8 Frostgorge Forager
-		 1 8 Foefire Captain
-		 1 8 Pact Airship
-		 1 8 Ride the Lightning
-		 1 8 Ring of Warding
-		 1 8 Receive the Light
-		 1 8 Backbreaker
-		 1 8 Dynamics Prodigy
-		 1 8 Golem Research Assistant
-		 1 8 Shiverpeak Owl
-		 1 8 Moogooloo Sentinel
-		 1 8 Frostgorge Ice Imp
-		 1 8 Rooba's Cleanup Krewe
-		 1 8 Whispers Lightbringer
-		 1 8 Icebrood Colossus
-		 1 8 The Prestige
-		 1 8 Council Scrutiny
-		 1 8 Arcane Breakthrough
-		 1 8 Signet of Humility
-		 1 8 Ice Spike
-		 1 8 Inquest Experiment
-		 1 8 Golemancy Field Research
-		 1 8 Maguuma Mosquito
-		 1 8 Skrittsburgh Scavenger
-		 1 8 Steam Mechataur
-		 1 8 Ash Legion Infiltrator
-		 1 8 Harpy Hunter
-		 1 8 Risen Preserver
-		 1 8 Zhaitan's Reclaimer
-		 1 8 Risen Gorilla
-		 1 8 Bloodbane Path
-		 1 8 Risen Corruption
-		 1 8 Dredge Surveillance
-		 1 8 Life Siphon
-		 1 8 Zhaitan's Breath
-		 1 8 Save Yourselves
-		 1 8 Destroyer Troll
-		 1 8 Smokestead Lookout
-		 1 8 Charr Legionnaire
-		 1 8 Iron Legion Marksman
-		 1 8 Charr Battle Tank
-		 1 8 Flame Legion Effigy
-		 1 8 Branded Minotaur
-		 1 8 Lightning Flash
-		 1 8 For Great Justice
-		 1 8 Open Black Lion Chest
-		 1 8 Rocket Shoes
-		 1 8 Lava Font
-		 1 8 Pact Cannonade
-		 1 8 Toxic Ooze
-		 1 8 Astorea Bloom Tender
-		 1 8 Undergrowth Recluse
-		 1 8 Nightmare Knight
-		 1 8 Wyld Hunt Ranger
-		 1 8 Taimini Rock Dog
-		 1 8 Great Lodge Skald
-		 1 8 Lapatl Chieftain
-		 1 8 Wychmire Wurm
-		 1 8 Caeledon Mossheart
-		 1 8 Rowdy Alemoot
-		 1 8 Point-Blank Shot
-		 1 8 Stand Your Ground
-		 1 8 Guild Banquet
-		 1 8 Take in the Vista
-		 1 8 Mark I Golem
-		 1 8 Dredge Mining Suit
-		 1 8 Asura Gate Golem
-		 1 8 Charr Mortar Shell
-		 1 8 Waypoint
-		 1 8 Guild Banner
-		 1 8 Flame Legion Igniter
-		 1 8 Risen Thrall
-		 1 8 Destroyer Crab
+		  1 Gaheron Baelfire
+		  1 Thaumanova Eruption
+		  1 GM03
+		  1 Eir Stegalkin
+		  1 The Flameseeker Prophecies
+		  1 Cleansing of Orr
+		  1 Logan Thackary
+		  1 The Glory of Tyria
+		  1 Zojja, Genius Golemancer
+		  1 Fractal Reset
+		  1 The Dreamer
+		  1 Master of Whispers
+		  1 Thief's Shadow Arts
+		  1 GM02
+		  1 Trahearne, Pact Marshal
+		  1 Rytlock Brimstone
+		  1 Zommoros' Mystic Forge
+		  1 Eternity
+		  2 Glyph of Elementals
+		  2 Faolain, Grand Duchess
+		  2 Risen Dragon Lieutenant
+		  2 Jade Winds
+		  2 Signet of Courage
+		  2 Forming the Pact
+		  2 Queen Jennah
+		  2 Sylvari Pacifist
+		  2 General Almorra Soulkeeper
+		  2 Priestess of Dwayna
+		  2 Jumping Puzzle
+		  2 Steward Gixx
+		  2 Elixer X
+		  2 Priestess of Lyssa
+		  2 Countess Anise
+		  2 Siege Golem
+		  2 Lich Form
+		  2 Inquest Golemaestro
+		  2 Dagger Storm
+		  2 Spectral Skirmisher
+		  2 Zhaitan's Awakening
+		  2 Necromancer Profession
+		  2 Engineer Profession
+		  2 Fiery Greatsword
+		  2 Champion Destroyer Harpy
+		  2 Transmutation Charges
+		  2 Schotakk the Shiny King
+		  2 Aatxe
+		  2 Strength of the Pack
+		  2 Priest of Melandru
+		  2 Ventari's Teachings
+		  2 Ancient Oakheart
+		  2 Malyck the Dreamless
+		  2 Ogden Stonehealer
+		  2 Knut Whitebear
+		  2 Blessings of the Wild
+		  2 Thief Profession
+		  2 Revenant Profession
+		  2 Elementalist Profession
+		  2 Firstborn Caithe
+		  2 Tome of Knowledge
+		  2 Asura Gate Portal
+		  2 Warrior Profession
+		  2 Crafting Contact
+		  2 Rare Counterspell
+		  2 Laranthir of the Wild
+		  2 Caladbolg
+		  2 Sayeh al' Rajihd
+		  2 Avatar of the Tree
+		  2 Hoelbrak
+		  2 Black Citadel
+		  2 Divinity's Reach
+		  2 Rata Sum
+		  2 The Grove
+		  4 Lesser Air Elemental
+		  4 Hero of Shaemoor
+		  4 Snaff Savant
+		  4 Warband Legionnaire
+		  4 Valiant of the Wyld Hunt
+		  4 Slayer of Issormir
+		  4 Lightbringer Tybalt Leftpaw
+		  4 Magister Sieran
+		  4 Warmaster Forgal Kernsson
+		  4 Bone Minion
+		  4 Garm, Wolf Companion
+		  4 Phlunt's Fillibuster
+		  4 Lord Faren
+		  4 Dragon Hologram
+		  4 Whispers Spy Kit
+		  4 Mr. Sparkles
+		  4 Mirror Images
+		  4 Defiance Break
+		  4 Steamrider
+		  4 Synergetics Showcase
+		  4 Priory Archivist
+		  4 Vanish into the Mists
+		  4 Shadow Refuge
+		  4 Nightmare Courtier
+		  4 Inquest Test Chamber
+		  4 Fleshreaver
+		  4 Death Shroud
+		  4 InGenium Golemancer
+		  4 Inquest Overseer Kolt
+		  4 Corrosive Poison Cloud
+		  4 Spiritcrush
+		  4 March of Undeath
+		  4 Mesmer Profession
+		  4 Signet of Domination
+		  4 Maelstrom's Bile
+		  4 Uptown Johnny
+		  4 Shiny Madness
+		  4 Modniir Berserker
+		  4 Lava Elemental
+		  4 Flame Legion Prophet
+		  4 Dragon's Tooth
+		  4 Charrzooka
+		  4 Zealot's Flame
+		  4 Hunter's Call
+		  4 Guardian Profession
+		  4 Foefire Regeneration
+		  4 Eagle Griffon
+		  4 Stubborn Dolyak
+		  4 Vigil Captain
+		  4 Mists War Recruiter
+		  4 Warden Trainee
+		  4 This is My Story
+		  4 Chains of Light
+		  4 Mistlock Instability
+		  4 Ghost of Duke Barradin
+		  4 Sic 'Em
+		  4 Wake from the Dream
+		  4 Packmaster Danador
+		  4 White Stag
+		  4 Ironshell Karka
+		  4 Ritual Husk
+		  4 Dragon Bash Reveler
+		  4 Queensdale Guide
+		  4 Verdant Kennel Grounds
+		  4 Illusionary Decoy
+		  4 Racing Moa
+		  4 Ranger Profession
+		  4 World Boss Portal Device
+		  4 Ley-Line Coalescence
+		  4 Lion's Arch
+		  4 Unidentified Gear
+		  4 Elemental Attunement
+		  4 Risen Despoiler
+		  4 Branded Griffon
+		  4 VAL-A Golem
+		  4 Mass Invisibility
+		  4 Renown Heart
+		  4 Flamethrower Kit
+		  4 Priest of Grenth
+		  4 Minister Caudecus
+		  8 Caromi Scout
+		  8 Lionguard Sentry
+		  8 Whispers Illusionist
+		  8 Kodan Shopkeeper
+		  8 Hawkeye Griffon
+		  8 Vigil Quartermaster
+		  8 Veteran Protector
+		  8 Terebinth Gardener
+		  8 Frostgorge Forager
+		  8 Foefire Captain
+		  8 Pact Airship
+		  8 Ride the Lightning
+		  8 Ring of Warding
+		  8 Receive the Light
+		  8 Backbreaker
+		  8 Dynamics Prodigy
+		  8 Golem Research Assistant
+		  8 Shiverpeak Owl
+		  8 Moogooloo Sentinel
+		  8 Frostgorge Ice Imp
+		  8 Rooba's Cleanup Krewe
+		  8 Whispers Lightbringer
+		  8 Icebrood Colossus
+		  8 The Prestige
+		  8 Council Scrutiny
+		  8 Arcane Breakthrough
+		  8 Signet of Humility
+		  8 Ice Spike
+		  8 Inquest Experiment
+		  8 Golemancy Field Research
+		  8 Maguuma Mosquito
+		  8 Skrittsburgh Scavenger
+		  8 Steam Mechataur
+		  8 Ash Legion Infiltrator
+		  8 Harpy Hunter
+		  8 Risen Preserver
+		  8 Zhaitan's Reclaimer
+		  8 Risen Gorilla
+		  8 Bloodbane Path
+		  8 Risen Corruption
+		  8 Dredge Surveillance
+		  8 Life Siphon
+		  8 Zhaitan's Breath
+		  8 Save Yourselves
+		  8 Destroyer Troll
+		  8 Smokestead Lookout
+		  8 Charr Legionnaire
+		  8 Iron Legion Marksman
+		  8 Charr Battle Tank
+		  8 Flame Legion Effigy
+		  8 Branded Minotaur
+		  8 Lightning Flash
+		  8 For Great Justice
+		  8 Open Black Lion Chest
+		  8 Rocket Shoes
+		  8 Lava Font
+		  8 Pact Cannonade
+		  8 Toxic Ooze
+		  8 Astorea Bloom Tender
+		  8 Undergrowth Recluse
+		  8 Nightmare Knight
+		  8 Wyld Hunt Ranger
+		  8 Taimini Rock Dog
+		  8 Great Lodge Skald
+		  8 Lapatl Chieftain
+		  8 Wychmire Wurm
+		  8 Caeledon Mossheart
+		  8 Rowdy Alemoot
+		  8 Point-Blank Shot
+		  8 Stand Your Ground
+		  8 Guild Banquet
+		  8 Take in the Vista
+		  8 Mark I Golem
+		  8 Dredge Mining Suit
+		  8 Asura Gate Golem
+		  8 Charr Mortar Shell
+		  8 Waypoint
+		  8 Guild Banner
+		  8 Flame Legion Igniter
+		  8 Risen Thrall
+		  8 Destroyer Crab
 		 1 Zhaitan, Shadow and Death
 		 1 The Pact Commander
 		 1 The Shatterer
