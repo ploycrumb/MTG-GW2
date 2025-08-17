@@ -170,13 +170,13 @@
 			}
 		},
 		{
-			"name": "Shiverpeak Owl",
+			"name": "Wind Rider",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Bird ",
+			"type": "Creature — Beast ",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ploycrumb/MTG-GW2/main/Card_Images/Shiverpeak Owl.png"
+				"en": "https://raw.githubusercontent.com/ploycrumb/MTG-GW2/main/Card_Images/Wind Rider.png"
 			}
 		},
 		{
@@ -3007,7 +3007,7 @@
 		 1 Backbreaker
 		 1 Dynamics Prodigy
 		 1 Golem Research Assistant
-		 1 Shiverpeak Owl
+		 1 Wind Rider
 		 1 Moogooloo Sentinel
 		 1 Frostgorge Ice Imp
 		 1 Rooba's Cleanup Krewe
@@ -3305,7 +3305,7 @@
 		  8 Backbreaker
 		  8 Dynamics Prodigy
 		  8 Golem Research Assistant
-		  8 Shiverpeak Owl
+		  8 Wind Rider
 		  8 Moogooloo Sentinel
 		  8 Frostgorge Ice Imp
 		  8 Rooba's Cleanup Krewe
