@@ -16,7 +16,7 @@ This set also features the Professions of Guild Wars 2 as classes:
 To play, download and install Cockatrice: https://cockatrice.github.io/
 Then download the zip file above and extract the files.
 In Cockatrice, from the Card Database menu select "Open Custom Sets Folder" and put the GW2.xml in there.
-Then, in the same Card Database menu, select "Open Custom Image Folder" and put the entire GW2-files folder in there.
+Then, in the same Card Database menu, select "Open Custom Image Folder" and move the entire GW2-files folder with all the card images in there.
 Select the "Reload Card Database" option and you should be good to add the cards to decks and play with them.
 
 To draft this set, I recommend using draftmancer.com
