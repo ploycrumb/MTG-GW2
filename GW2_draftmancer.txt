@@ -802,7 +802,7 @@
 		{
 			"name": "Thaumanova Fire Elemental",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{R}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Battle — Boss ",
 			"collector_number": "166",
 			"image_uris": {
